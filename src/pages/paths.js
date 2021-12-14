@@ -16,7 +16,6 @@ export default function Paths() {
         <Route path='/tasktwo' exact element={ <TaskTwo/>}/>
         <Route path='/taskthree' exact element={ <TaskThree/>}/>
         <Route path='/taskfour' exact element={ <TaskFour/>}/>
-        
       </Routes>
     </BrowserRouter>
   );

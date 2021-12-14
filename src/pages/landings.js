@@ -228,7 +228,7 @@ export default function Landings() {
       >
         <div style={{ width: "400px" }}>
           <h1>What is behind Made In ?</h1>
-
+            <p>icon</p>
           <p>
             Made in kitchen products are made in the best factories around the
             world. We have partenered with multi-generation factories and
